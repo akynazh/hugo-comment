@@ -1,3 +1,3 @@
 # comments
 
-Comments In My Site.
+My [blog](https://akynazh.site) comment system, powered by [utterances](https://utteranc.es).
